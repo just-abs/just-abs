@@ -36,8 +36,6 @@
 
 #### 🗺️ Geo-Informationssystem für Asset Management
 
-<!-- 📸 Bild einfügen: ![GIS Screenshot](./assets/gis-platform.png) -->
-
 GIS-Plattform für die Immobilienbranche — aggregiert und visualisiert raumbezogene Daten für Standort-, Erreichbarkeits- und Marktanalysen. Integriert sozioökonomische Kennzahlen und unterstützt Potenzialanalysen für erneuerbare Energien.
 
 `React` `Django` `PostgreSQL` `Docker` `Azure`
@@ -46,8 +44,6 @@ GIS-Plattform für die Immobilienbranche — aggregiert und visualisiert raumbez
 <td width="50%">
 
 #### 📄 KI-gestützte Dokumentenanalyse
-
-<!-- 📸 Bild einfügen: ![Docs AI Screenshot](./assets/docs-ai.png) -->
 
 Extrahiert automatisiert Schlüsselinformationen aus unstrukturierten Dokumenten wie gescannten PDFs und Bildern. Erzeugt strukturierte Zusammenfassungen — angetrieben durch LLM-basierte Textextraktion.
 
@@ -60,8 +56,6 @@ Extrahiert automatisiert Schlüsselinformationen aus unstrukturierten Dokumenten
 
 #### ⚽ Hobby-Fußball mit Skill-Matchmaking
 
-<!-- 📸 Bild einfügen: ![Football App Screenshot](./assets/football-app.png) -->
-
 Organisiert regelmäßige Spiele mit einem Algorithmus für faire Teamaufteilungen auf Basis individueller Skill-Bewertungen. Bietet Spieler-Verwaltung, Budget-Tracking und Teilnahme-Statistiken.
 
 `React` `Cloudflare`&ensp;[**🔗 Live**](https://sbm-poll.pages.dev/)
@@ -70,8 +64,6 @@ Organisiert regelmäßige Spiele mit einem Algorithmus für faire Teamaufteilung
 <td width="50%">
 
 #### 🏠 Smart Home Dashboard
-
-<!-- 📸 Bild einfügen: ![Smart Home Screenshot](./assets/smart-home.png) -->
 
 Mobile App zur zentralen Steuerung von Smart-Home-Geräten mit integrierter To-do-Liste und gebündeltem Dashboard für die alltägliche Interaktion mit allen angebundenen Systemen.
 
@@ -89,8 +81,6 @@ Mobile App zur zentralen Steuerung von Smart-Home-Geräten mit integrierter To-d
 
 #### KI-gestützte PowerPoint-Erstellung
 
-<!-- 📸 Bild einfügen: ![PPT AI Screenshot](./assets/ppt-ai.png) -->
-
 Generiert aus einer initialen Idee im Dialog mit dem Nutzer vollständige PowerPoint-Präsentationen. Kombiniert Chat-Interaktion mit LLM-Unterstützung und Corporate-Design-Vorgaben — weitgehend autonom durch AI entwickelt.
 
 `Python` `OpenAI` `Django` `Docker` `Claude Code`
@@ -99,8 +89,6 @@ Generiert aus einer initialen Idee im Dialog mit dem Nutzer vollständige PowerP
 <td width="50%">
 
 #### Plattform für Krankentransporte
-
-<!-- 📸 Bild einfügen: ![MediConvey Screenshot](./assets/mediconvey.png) -->
 
 WebApp zur digitalen Vernetzung von Krankenhäusern und Fahrdienstleistern. Verteilt Transportanfragen intelligent, zeigt Routen und Standorte in Echtzeit an.
 
