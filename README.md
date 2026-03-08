@@ -1,44 +1,12 @@
 <div align="center">
 
 <!-- Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:06b6d4&height=220&section=header&text=Hi,%20ich%20bin%20Baran%20&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=Software%20Engineer%20%7C%20AI-First%20Strategien%20%7C%20Full-Stack&descSize=18&descAlignY=55&descColor=c7d2fe" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:06b6d4&height=220&section=header&text=Hi,%20ich%20bin%20Baran%20&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=Software%20Engineer%20%7C%20Full-Stack&descSize=18&descAlignY=55&descColor=c7d2fe" width="100%" />
 
 <!-- Badges -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ali-baran-sahin-4a265b277)
 
 </div>
-
----
-
-## Über mich
-
-> *Ich entwickle moderne Web-Applikationen und treibe **AI-First Strategien** voran — von der Konzeption bis zum vollautonomen System.*
-
-Mit Erfahrung in **Full-Stack-Entwicklung** und einem starken Fokus auf **AI-Transformation** helfe ich Unternehmen, ihre digitalen Produkte auf das nächste Level zu bringen. Ich glaube an pragmatische Lösungen, die echten Mehrwert schaffen — nicht an Buzzword-getriebene Technik.
-
-<table>
-<tr>
-<td width="50%">
-
-### Was mich ausmacht
-
-- **Clean Code** — Saubere, wartbare Architektur mit modernen Best Practices
-- **AI-Driven** — Integration von KI in jeden Schritt des Entwicklungsprozesses
-- **End-to-End** — Von der Idee über Architektur bis zum produktionsreifen Deployment
-
-</td>
-<td width="50%">
-
-### AI Expertise
-
-- Autonome AI Agents & vollautonome Systeme
-- AI-First Workflows & Prozessgestaltung
-- Responsible AI mit Guardrails & Monitoring
-- Strategische AI Transformation & Beratung
-
-</td>
-</tr>
-</table>
 
 ---
 
@@ -150,6 +118,12 @@ WebApp zur digitalen Vernetzung von Krankenhäusern und Fahrdienstleistern. Vert
 
 **Lass uns zusammenarbeiten!** Du hast ein Projekt, eine Idee oder möchtest über AI Transformation sprechen?
 
-[![Website](https://img.shields.io/badge/🌐_Meine_Website-6366f1?style=for-the-badge&logoColor=white)](https://abs-dev.pages.dev/)
+<br/><br/>
+
+<a href="https://abs-dev.pages.dev/">
+  <img src="https://img.shields.io/badge/Portfolio_besuchen-abs--dev.pages.dev-6366f1?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0d1117" height="40" />
+</a>
+
+<sub>Projekte, Skills & mehr auf meiner Website</sub>
 
 </div>
